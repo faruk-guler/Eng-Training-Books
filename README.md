@@ -1,1 +1,1 @@
-# English | Turkish Training Docs
+# English | Turkish Training Docs and Dictionary
